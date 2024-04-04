@@ -31,5 +31,9 @@ It consists of three main files: `scrapall.py`, `join.py`, and `add.py`.
 
 ## Note
 - **Important:** Be cautious when scraping or adding users to groups. Ensure you have the necessary permissions and follow Telegram's guidelines and terms of service.
+## Support
+
+If this script helps you, consider buying me a coffee!  
+BTC Wallet Address: 15qXYLEjYCc3aNNV9VYyVed8KFoJfPGMtE
 
 ---
